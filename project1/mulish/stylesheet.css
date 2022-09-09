@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Mulish';
+    src: url('Mulish-ExtraLightItalic.eot');
+    src: url('Mulish-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Mulish-ExtraLightItalic.woff2') format('woff2'),
+        url('Mulish-ExtraLightItalic.woff') format('woff'),
+        url('Mulish-ExtraLightItalic.ttf') format('truetype'),
+        url('Mulish-ExtraLightItalic.svg#Mulish-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mulish';
+    src: url('Mulish-ExtraLight.eot');
+    src: url('Mulish-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Mulish-ExtraLight.woff2') format('woff2'),
+        url('Mulish-ExtraLight.woff') format('woff'),
+        url('Mulish-ExtraLight.ttf') format('truetype'),
+        url('Mulish-ExtraLight.svg#Mulish-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
